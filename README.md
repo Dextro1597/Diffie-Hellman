@@ -8,5 +8,6 @@ Then Definite calculates B = g^b mod p. Definite sends B to Faizal over the inse
 Faizal then computes the shared secret, s = B^a mod p.
 Definite aslo then computes the shared secret, s = A^b mod p.
 Now Faizal and Definite have a shared secret key, s, that Ramadhir does not know, even though Ramadhir knows p, b, A, and B.
-And this is how Faizal and Definite plan to kill Ramadhir and then kill him in hospital. #Bhai ka ,Dada ka, Baap ka sab ka badla lega re teri Faizal 
-Use Deffie2 if you want input from user
+And this is how Faizal and Definite plan to kill Ramadhir and then kill him in hospital. #Bhai ka ,Dada ka, Baap ka sab ka badla lega re teri Faizal.
+
+Use Deffie2 if you want input from user.
