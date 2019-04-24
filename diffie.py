@@ -1,3 +1,4 @@
+#code by Ahad Patel
 sharedPrime = 23 #p
 sharedBase = 5 #q
 
