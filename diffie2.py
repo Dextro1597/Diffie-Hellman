@@ -1,3 +1,4 @@
+#code by Ahad Patel
 sharedPrime = input('Enter the value of p:') #p(eg. 23)
 sharedBase = input('Enter the value of q:') #q(eg. 5)
 
